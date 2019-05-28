@@ -1,3 +1,3 @@
 #!/bin/bash -i
 
-ruby scripts/main.rb
+bundle exec ruby scripts/main.rb
